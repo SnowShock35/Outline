@@ -24,10 +24,3 @@ $RECYCLE.BIN/
 ### Custom ###
 # Released Pack Versions (.zip)
 *.zip
-
-# Paint.Net Files (.pdn)
-*.pdn
-PaintDotNet\ Files/
-
-# README.html (For CurseForge Page)
-README.html
